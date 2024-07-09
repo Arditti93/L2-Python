@@ -25,7 +25,7 @@ else:
 
 place =  "Manchester"
 weather =  "Rain"
-# both conditions have to be met with and operator
+# both conditions have to be met with the and operator
 if place == "MCR" or place =="Manchester" and weather == "Rain":
     print("Oviously")
 elif place == "MCR" or place =="Manchester" and weather == "Sunny":
