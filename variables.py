@@ -35,7 +35,7 @@ student = True
 student = "I am not a Student"
 # print(student)
 sentance = "My name is "
-# print("My name is " + my_name)
+print("My name is " + my_name)
 
 
 fav_drink = "Pepsi"
